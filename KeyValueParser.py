@@ -45,7 +45,6 @@ class ValveKeyValueParser:
         is_valid = True
 
         if not line:
-            x = 1 + 2
             is_valid = False
 
         # Key-value pair lines always start with a double quotation
